@@ -8,7 +8,8 @@ We are provided with a hotel bookings dataset. This dataset contains booking inf
 Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
 
 2.Data Cleaning & Feature Engineering:
-     - There were columns like column company,agent,country and children contains  
+    
+    - There were columns like column company,agent,country and children contains  
         missing values.
       
      - We can drop 'company' column as it contains too many missing values.
@@ -24,27 +25,27 @@ Out main objective is perform EDA on the given dataset and draw useful conclusio
 
 3.Overview of the Hotel Type:
 
-3.	What is the percentage of booking done in different hotels?
+1.	What is the percentage of booking done in different hotels?
 
-4.	How many total bookings done in different Years?
+2.	How many total bookings done in different Years?
 
-5.	How many total bookings done in different months?
+3.	How many total bookings done in different months?
 
-6.	Total Number of Booking Cancelled in different months?
+4.	Total Number of Booking Cancelled in different months?
 
-7.	Total Number of Non-Cancelled Bookings in different months?
+5.	Total Number of Non-Cancelled Bookings in different months?
 
 4.Analysis on Hotels & Bookings: 
 
-8.	How many days customers prefer to stay in week night?
+1.	How many days customers prefer to stay in week night?
 
-9.	How many days customers prefer to stay in weekend night?
+2.	How many days customers prefer to stay in weekend night?
 
-10.	what is the most preferred meal type by customers?
+3.	what is the most preferred meal type by customers?
 
-11.	How many customers are making special Request?
+4.	How many customers are making special Request?
 
-12.	Which one is most preferred room type?
+5.	Which one is most preferred room type?
 
 5.Overview of Market Segments:
 
